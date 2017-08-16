@@ -1,0 +1,50 @@
+h1, h2, a {
+    color: #aa0000;
+}
+.name {
+    background-color: #00aaaa;
+    height: 150px;
+    padding: 20px;
+    text-shadow: 4px 4px 2px silver;
+}
+.name h1 {
+    color: white;
+}
+.name h2 {
+    color: white;
+}
+h3 {
+    color: #aa0000;
+}
+.sidebar {
+    float: left;
+    width: 25%;
+    margin: 20px;
+}
+
+.main-content {
+    float: right;
+    width: 75%;
+    margin: 20px;
+}
+.footer li {
+    display: inline-block;
+
+    padding: 30px;
+
+    font-weight: bold;
+
+    text-align: center;
+}
+.img li {
+    display: inline-block;
+    width: 30%;
+}
+.raised {
+    border: solid 1px gray;
+    border-radius: 2px;
+    box-shadow: 5px 2px 2px gray;
+}
+.footer a {
+    text-decoration: none;
+}
